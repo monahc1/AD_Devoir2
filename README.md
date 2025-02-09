@@ -1,6 +1,4 @@
-Voici un modèle pour le fichier `README.md` que tu peux utiliser pour ton projet sur GitHub :
 
----
 
 # Apache Tomcat Servlet Implementation
 
@@ -66,8 +64,4 @@ Ce projet présente l'implémentation d'un servlet simple sur Apache Tomcat. Lor
 
 Le projet a permis de créer un servlet basique avec Apache Tomcat, offrant une vue d'ensemble de la manière de configurer un environnement Tomcat et de développer des servlets. Les étapes sont bien documentées et l'application fonctionne comme prévu.
 
----
 
-N'oublie pas d'ajouter les captures d'écran dans un dossier `screenshots` dans ton repository GitHub.
-
-Cela te convient-il pour ton README ?
